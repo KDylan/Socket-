@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="16F73" minimumToolsVersion="Xcode 7.0">
+    <entity name="Client" representedClassName="Client" syncable="YES">
+        <attribute name="connectTime" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="disconnectTime" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="potAdress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="potNumber" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Client" positionX="-36" positionY="9" width="128" height="105"/>
+    </elements>
+</model>
